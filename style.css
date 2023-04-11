@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #222;
+    background-image: url("background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+canvas {
+    background-image: url("background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
